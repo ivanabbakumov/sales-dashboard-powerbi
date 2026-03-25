@@ -8,6 +8,10 @@ The dashboard provides insights into revenue, order volume, profitability, and p
 
 ---
 
+[sales_dashboard.pdf](https://github.com/user-attachments/files/26243848/sales_dashboard.pdf)
+
+---
+
 ## 🎯 Business Goals
 
 * Analyze overall sales performance
@@ -57,7 +61,7 @@ The dashboard provides insights into revenue, order volume, profitability, and p
 
 ## 📎 Files
 
-* `dashboard.pbix` — main Power BI file
+* `sales_dashboard.pbix` -- main Power BI file
 
 ---
 
