@@ -8,7 +8,7 @@ The dashboard provides insights into revenue, order volume, profitability, and p
 
 ---
 
-[sales_dashboard.pdf](https://github.com/user-attachments/files/26243848/sales_dashboard.pdf)
+<img width="2767" height="1600" alt="sales_dashboard" src="https://github.com/user-attachments/assets/beb4c588-cadf-460c-bf2c-3200a9baf3ca" />
 
 ---
 
@@ -61,7 +61,7 @@ The dashboard provides insights into revenue, order volume, profitability, and p
 
 ## 📎 Files
 
-* `sales_dashboard.pbix` -- main Power BI file
+* `sales_dashboard.pbix` - main Power BI file
 
 ---
 
